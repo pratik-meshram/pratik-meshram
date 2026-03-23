@@ -8,7 +8,14 @@
 
 ```js
 const pratik = {
-  role: "Full Stack Developer",
-  skills: ["React", "Node.js", "MongoDB", "Express"],
-  location: "India 🇮🇳"
+  location: "Nagpur, India",
+  role: "MERN Stack Developer | Open to Opportunities",
+  education: "B.Tech in Computer Engineering (2025 Graduate)",
+  techStack: ["MongoDB", "Express.js", "React.js", "Node.js", "Tailwind CSS"],
+  currentlyBuilding: "AI-powered Web Applications",
+  experience: [
+    "4-month Paid Internship @ Idevify Solutions Pvt. Ltd.",
+    "6-month Internship @ Royals Web Tech"
+  ],
+  strengths: ["Full Stack Development", "Quick Learner"]
 };
